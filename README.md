@@ -1,3 +1,3 @@
 # GIT TEST
 Hello, there.
-Welcome to **BINGER** [project].
+Welcome to **GIT TEST**.
